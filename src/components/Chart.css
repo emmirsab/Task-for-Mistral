@@ -1,0 +1,145 @@
+/* ---- GENERAL ---- */
+
+.show-gridChart {
+  margin-top: 80px;
+  display: block;
+  margin-left: auto;
+}
+
+.firstChartFrame,
+.secondChartFrame,
+.thirdChartFrame {
+  margin-top: 20px;
+  right: 20px;
+  height: 500px;
+  width: 380px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding-left: 0px;
+  padding-right: 0px;
+  position: relative;
+}
+
+.secondChartFrame {
+  left: 5px;
+}
+
+.thirdChartFrame {
+  left: 30px;
+}
+
+/* ---- CHARTS ---- */
+
+.firstChart,
+.secondChart {
+  position: absolute;
+  width: 80%;
+  height: 50%;
+  bottom: 10px;
+  left: 30px;
+}
+
+.thirdChart {
+  position: absolute;
+  height: 50%;
+  width: 60%;
+  bottom: 80px;
+  left: 75px;
+}
+
+.chartBorder {
+  border-top: 3px solid #f4f4f4;
+}
+
+.h2Chart {
+  font-weight: 600;
+}
+
+.h5Chart {
+  color: #c7c7c7;
+}
+
+.h4Chart {
+  color: #555;
+  margin-top: 5px;
+}
+
+.upIn {
+  float: right;
+  color: #c7c7c7;
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+.pieChart {
+  margin-top: 50px;
+}
+
+.bottomPie {
+  position: relative;
+  margin-top: 235px;
+  border-top: 3px solid #f4f4f4;
+  padding-left: 35px;
+}
+
+.botPie {
+  border-left: 3px solid #f4f4f4;
+  border-right: 3px solid #f4f4f4;
+}
+
+/* ---- Dots ---- */
+
+.dot1,
+.dot2,
+.dot3,
+.dot4,
+.dot5 {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.dot1 {
+  background-color: #6ed221;
+}
+
+.dot2 {
+  background-color: #bd4ed3;
+}
+
+.dot3 {
+  background-color: #bd4ed3;
+}
+
+.dot4 {
+  background-color: #3e96de;
+}
+
+.dot5 {
+  background-color: #6ed221;
+}
+
+/* ---- Links---- */
+
+.link1,
+.link2,
+.link3 {
+  padding-right: 40px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #c7c7c7;
+  margin-top: 40px;
+}
+
+.link1:hover,
+.link1:active,
+.link2:hover,
+.link2:active,
+.link3:hover,
+.link3:active {
+  color: #555;
+  text-decoration: none;
+}

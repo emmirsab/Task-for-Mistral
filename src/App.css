@@ -1,0 +1,35 @@
+/* ---- COLORS ---- 
+
+BACKGROUND-COLOR - #f4f4f4
+TEXT COLOR - #555
+
+GREY COLORS - #a5a5a5
+
+ORANGE - #ed8332
+DARK ORANGE - #d36e2b
+PURPLE - #bd4ed3
+DARK PURPLE - #a43dba
+BLUE - #3e96de
+DARK BLUE - #3483c3
+GREEN - #6ed221
+DARK GREEN - #5bb019
+
+-------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #f4f4f4;
+  color: #555;
+  font-family: "lato", "arial", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}

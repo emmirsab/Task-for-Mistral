@@ -1,0 +1,39 @@
+/* ---- GENERAL ---- */
+
+.show-grid {
+  margin-top: 100px;
+  display: block;
+}
+
+.firstMusicFrame {
+  right: 10px;
+  height: 270px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.secondMusicFrame {
+  height: 270px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.thirdMusicFrame {
+  top: 20px;
+  height: 100px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.firstPlayer {
+  margin-top: -220px;
+}
+
+.secondPlayer {
+  margin-top: -220px;
+}
+
+.playerImage {
+  width: 200%;
+  margin-top: 25px;
+}

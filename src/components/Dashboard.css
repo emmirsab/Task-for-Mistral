@@ -1,0 +1,85 @@
+/* ---- GENERAL ---- */
+
+.show-gridDash {
+  margin-top: 80px;
+  display: block;
+  margin-left: -20px;
+}
+
+.show-gridDash2 {
+  margin-top: 20px;
+  margin-left: -20px;
+}
+
+.h5Dash {
+  color: #c7c7c7;
+}
+
+.frame1,
+.frame2,
+.frame3,
+.frame4,
+.frame5,
+.frame6,
+.frame7,
+.frame8 {
+  margin-top: 20px;
+  height: 100px;
+  width: 269px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.frame4 {
+  left: 100px;
+}
+
+.frame3 {
+  left: 70px;
+}
+
+.frame2 {
+  left: 35px;
+}
+
+.frame8 {
+  left: 100px;
+  background-color: #ed8332;
+}
+
+.frame7 {
+  left: 70px;
+  background-color: #bd4ed3;
+}
+
+.frame6 {
+  left: 35px;
+  background-color: #3e96de;
+}
+
+.frame5 {
+  background-color: #6ed221;
+}
+
+/* ---- ICONS ---- */
+
+.iconPicFrame {
+  height: 55px;
+  width: 55px;
+  display: inline-block;
+  margin-top: 22px;
+}
+
+.icon-pic {
+  width: 55px;
+  height: 55px;
+}
+
+.cardH {
+  margin-top: 10px;
+  padding-left: 30px;
+}
+
+.divH5 {
+  margin-top: -13px;
+}

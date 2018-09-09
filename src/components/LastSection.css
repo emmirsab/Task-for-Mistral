@@ -1,0 +1,200 @@
+/* ---- GENERAL ---- */
+
+.show-gridLast {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: block;
+}
+
+.firstLast,
+.secondLast {
+  height: 380px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+/* ---- FIRST FRAME ---- */
+
+.firstLast {
+  background-color: rgb(155, 34, 185);
+  right: 10px;
+}
+
+.lastText {
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
+.lastH2 {
+  color: #fff;
+}
+
+p {
+  margin-top: -16px;
+}
+
+.pLast {
+  color: #c7c7c7;
+  font-weight: 400;
+  margin-top: -40px;
+  padding-bottom: 20px;
+}
+
+/* ---- First 2 Buttons ---- */
+
+.btn-last1 {
+  margin-top: 20px;
+  float: left;
+}
+
+.btn-lastBtn1:link,
+.btn-lastBtn1:visited,
+input[type="submit"] {
+  background-color: #ed8332;
+  border: 2px solid #d36e2b;
+  color: #fff;
+  font-size: 12px;
+  margin-right: 15px;
+}
+
+.btn-lastBtn2:link,
+.btn-lastBtn2:visited,
+input[type="submit"] {
+  background-color: #3e96de;
+  border: 2px solid #3483c3;
+  color: #fff;
+  font-size: 12px;
+  margin-right: 15px;
+}
+
+.btn-lastBtn2:hover {
+  background-color: #3483c3;
+}
+
+.btn-lastBtn1:hover {
+  background-color: #d36e2b;
+}
+
+/* ---- BUTTON FIRST FRAME ---- */
+
+.arrowIcon {
+  position: absolute;
+  margin-left: 5px;
+}
+
+.lastBtn2 {
+  margin-top: -20px;
+}
+
+.btn-last {
+  margin-top: 20px;
+  float: left;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.btn:link,
+.btn:visited,
+input[type="submit"] {
+  display: inline-block;
+  padding: 10px 30px;
+  font-weight: 300;
+  text-decoration: none;
+  border-radius: 200px;
+  -webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
+  transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.btn-full:link,
+.btn-full:visited,
+input[type="submit"] {
+  background-color: #a5a5a500;
+  border: 2px solid #a5a5a5;
+  color: #a5a5a5;
+  margin-right: 15px;
+}
+
+.btn-full2:link,
+.btn-full2:visited,
+input[type="submit"] {
+  background-color: #a5a5a500;
+  border: 2px solid #a5a5a5;
+  color: #fff;
+  margin-right: 15px;
+}
+
+.btn-full2:hover,
+.btn-full:hover {
+  background-color: #a5a5a5;
+  color: #fff;
+  -webkit-transition: background-color 0.5s, border 0.5s, color 0.5s;
+  transition: background-color 0.5s, border 0.5s, color 0.5s;
+}
+
+/* ---- SECOND FRAME ---- */
+
+.secondLast {
+  background-color: #fff;
+}
+
+.picLast {
+  margin-top: 40px;
+}
+
+.profilePicLast {
+  width: 13%;
+}
+
+.profileNameLast {
+  color: #555;
+  font-size: 12px;
+  font-weight: 900;
+  margin-left: 20px;
+  display: inline-block;
+  margin-top: 2px;
+  line-height: 150%;
+  vertical-align: middle;
+}
+
+.profilePosts {
+  font-size: 12px;
+  color: #a5a5a5;
+  font-weight: normal;
+}
+
+/* ---- BUTTON LAST FRAME ---- */
+
+.articleBtn {
+  margin-left: 60px;
+  position: relative;
+}
+
+.btn-art {
+  margin-top: 20px;
+  float: left;
+}
+
+.btn:link,
+.btn:visited,
+input[type="submit"] {
+  display: inline-block;
+  padding: 5px 30px;
+  font-weight: 300;
+  text-decoration: none;
+  border-radius: 200px;
+  -webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
+  transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.checkIcon {
+  position: absolute;
+  margin-left: -92px;
+  margin-top: -7px;
+}
+
+.lastText {
+  margin-top: -15px;
+}

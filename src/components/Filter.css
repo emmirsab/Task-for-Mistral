@@ -1,0 +1,144 @@
+/* ---- GENERAL ---- */
+
+.show-gridFilter {
+  margin-top: 100px;
+  display: block;
+  margin-left: -5px;
+}
+
+.firstFilterFrame,
+.secondFilterFrame,
+.thirdFilterFrame {
+  background-color: #fff;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 5px;
+}
+
+.firstFilterFrame {
+  right: 20px;
+  height: 368px;
+}
+
+.secondFilterFrame {
+  height: 520px;
+}
+
+.thirdFilterFrame {
+  left: 20px;
+  height: 520px;
+}
+
+.allDropdowns {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/* ---- Calendar ---- */
+
+.calendar {
+  margin-top: 0px;
+  width: 100%;
+}
+
+/* ---- SECOND FRANE ---- */
+
+.secFil {
+  padding-bottom: 0px;
+}
+
+.secFil2 {
+  border-left: 3px solid #f9f9f9;
+  padding-bottom: 16px;
+}
+
+.secFil3,
+.secFil4 {
+  border-top: 3px solid #f9f9f9;
+}
+.secFil4 {
+  margin-top: 20px;
+}
+
+.h5Filter {
+  margin-top: 23px;
+  padding-left: 20px;
+}
+
+.trashIcon {
+  margin-top: 18px;
+  float: right;
+}
+
+.btnFil {
+  padding-right: 155px;
+}
+
+/* ---- Filter button ----*/
+
+.filterBtn {
+  border-top: 3px solid #f9f9f9;
+  padding-left: 75px;
+}
+
+.btn-filter:link,
+.btn-filter:visited,
+input[type="submit"] {
+  background-color: #6ed221;
+  border: 1px solid #5bb019;
+  color: #fff;
+  margin-right: 15px;
+}
+
+.btn-filter:hover {
+  background-color: #5bb019;
+}
+
+.checkIconFilter {
+  position: absolute;
+  margin-left: -105px;
+  margin-top: -5px;
+}
+
+/* Style The Dropdown Button */
+
+.dropDrop {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropDrop a {
+  color: #555;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropDrop a:hover {
+  background-color: #f9f9f9;
+}
+
+.dropFil:hover .dropDrop {
+  display: block;
+}
+
+.dropFil {
+  background-color: #fff;
+}
+
+.dropAll {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-top: 3px solid #f9f9f9;
+}
+
+.dropName {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+}
